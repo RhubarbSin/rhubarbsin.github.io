@@ -12,6 +12,9 @@ categories:
   - Make bold work
   - Make italic work
   - Test other kinds of mark-up
+  - Favicon?
+  - Automate save-then-publish, rake gen_deploy
+  - Investigate other themes
 * Style Tests
   Is *this* bold?
 
