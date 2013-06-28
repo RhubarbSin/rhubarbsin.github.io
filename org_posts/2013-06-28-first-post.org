@@ -7,14 +7,22 @@ comments: false
 categories: 
 ---
 #+END_HTML
-* List
-  - A List item
-  - Another list item
-* Python Code
-  #+BEGIN_SRC python
-  print 'Hello, world!'
-  #+END_SRC
+* Agenda
+  - Turn off the table of contents
+  - Make bold work
+  - Make italic work
+  - Test other kinds of mark-up
 * Style Tests
   Is *this* bold?
 
   Is =this= code?
+* List
+  - A list item
+  - Another list item
+* Numbered List
+  1. Number one
+  2. Number two
+* Python Code
+  #+BEGIN_SRC python
+  print 'Hello, world!'
+  #+END_SRC
