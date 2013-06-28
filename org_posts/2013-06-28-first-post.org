@@ -14,3 +14,7 @@ categories:
   #+BEGIN_SRC python
   print 'Hello, world!'
   #+END_SRC
+* Style Tests
+  Is *this* bold?
+
+  Is =this= code?
