@@ -9,7 +9,6 @@ categories:
 #+END_HTML
 * Agenda
   - Turn off the table of contents
-  - Make bold work
   - Make italic work
   - Test other kinds of mark-up
   - Favicon?
