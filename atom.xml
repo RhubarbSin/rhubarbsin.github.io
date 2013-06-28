@@ -4,7 +4,7 @@
   <title><![CDATA[Dances with Crabs]]></title>
   <link href="http://RhubarbSin.github.io/atom.xml" rel="self"/>
   <link href="http://RhubarbSin.github.io/"/>
-  <updated>2013-06-28T16:12:24-04:00</updated>
+  <updated>2013-06-28T16:30:48-04:00</updated>
   <id>http://RhubarbSin.github.io/</id>
   <author>
     <name><![CDATA[Rhubarb Sin]]></name>
@@ -12,5 +12,57 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://RhubarbSin.github.io/blog/2013/06/28/first-post/"/>
+    <updated>2013-06-28T16:26:00-04:00</updated>
+    <id>http://RhubarbSin.github.io/blog/2013/06/28/first-post</id>
+    <content type="html"><![CDATA[<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1 Heading 1</a></li>
+<li><a href="#sec-2">2 Heading 2</a></li>
+</ul>
+</div>
+</div>
+
+
+
+
+<div id="outline-container-1" class="outline-2">
+<h2 id="sec-1">Heading 1</h2>
+<div class="outline-text-2" id="text-1">
+
+<ul>
+<li>List item
+</li>
+<li>Another list item
+</li>
+</ul>
+
+</div>
+
+</div>
+
+
+
+
+<div id="outline-container-2" class="outline-2">
+<h2 id="sec-2">Heading 2</h2>
+<div class="outline-text-2" id="text-2">
+
+
+
+<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'>  <span class="k">print</span> <span class="s">&#39;Hello, world!&#39;</span>
+</span></code></pre></td></tr></table></div></figure>
+
+</div>
+</div>
+
+]]></content>
+  </entry>
   
 </feed>

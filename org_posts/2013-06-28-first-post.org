@@ -1,0 +1,16 @@
+#+BEGIN_HTML
+---
+layout: post
+title: "First Post"
+date: 2013-06-28 16:26
+comments: false
+categories: 
+---
+#+END_HTML
+* Heading 1
+  - List item
+  - Another list item
+* Heading 2
+  #+BEGIN_SRC python
+  print 'Hello, world!'
+  #+END_SRC
