@@ -7,10 +7,10 @@ comments: false
 categories: 
 ---
 #+END_HTML
-* Heading 1
+* A List
   - List item
   - Another list item
-* Heading 2
+* Python Code
   #+BEGIN_SRC python
   print 'Hello, world!'
   #+END_SRC
