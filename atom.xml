@@ -4,7 +4,7 @@
   <title><![CDATA[Dances with Crabs]]></title>
   <link href="http://RhubarbSin.github.io/atom.xml" rel="self"/>
   <link href="http://RhubarbSin.github.io/"/>
-  <updated>2013-06-28T19:02:29-04:00</updated>
+  <updated>2013-06-28T19:36:11-04:00</updated>
   <id>http://RhubarbSin.github.io/</id>
   <author>
     <name><![CDATA[Rhubarb Sin]]></name>
@@ -49,6 +49,8 @@
 </li>
 <li>Automate save-then-publish, <code>rake gen_deploy</code>
 </li>
+<li>Consider &#8220;Landing Page vs. Blog Index&#8221;
+</li>
 <li>Investigate other themes
 </li>
 </ul>
@@ -68,6 +70,9 @@
 </p>
 <p>
   Is <code>this</code> code?
+</p>
+<p>
+  Is <i>this</i> italic?
 </p></div>
 
 </div>

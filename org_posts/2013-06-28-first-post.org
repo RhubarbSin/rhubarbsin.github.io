@@ -13,11 +13,14 @@ categories:
   - Test other kinds of mark-up
   - Favicon?
   - Automate save-then-publish, =rake gen_deploy=
+  - Consider "Landing Page vs. Blog Index"
   - Investigate other themes
 * Style Tests
   Is *this* bold?
 
   Is =this= code?
+
+  Is /this/ italic?
 * List
   - A list item
   - Another list item
