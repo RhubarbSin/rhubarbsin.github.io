@@ -1,3 +1,5 @@
+# -*- mode: ruby -*-
+
 require "rubygems"
 require "bundler/setup"
 require "stringex"
@@ -113,6 +115,7 @@ task :new_post, :title do |t, args|
     post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
     post.puts "comments: false"
     post.puts "categories: "
+    post.puts "published: true"
     post.puts "---"
     post.puts "#+END_HTML"
   end
@@ -148,6 +151,7 @@ task :new_page, :filename do |t, args|
       page.puts "title: \"#{title}\""
       page.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
       page.puts "comments: false"
+      post.puts "published: true"
       page.puts "sharing: true"
       page.puts "footer: true"
       page.puts "---"
