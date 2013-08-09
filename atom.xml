@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Dances with Crabs]]></title>
+  <link href="http://RhubarbSin.github.io/atom.xml" rel="self"/>
+  <link href="http://RhubarbSin.github.io/"/>
+  <updated>2013-06-28T19:40:59-04:00</updated>
+  <id>http://RhubarbSin.github.io/</id>
+  <author>
+    <name><![CDATA[Rhubarb Sin]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://RhubarbSin.github.io/blog/2013/06/28/first-post/"/>
+    <updated>2013-06-28T16:26:00-04:00</updated>
+    <id>http://RhubarbSin.github.io/blog/2013/06/28/first-post</id>
+    <content type="html"><![CDATA[<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1 Agenda</a></li>
+<li><a href="#sec-2">2 Style Tests</a></li>
+<li><a href="#sec-3">3 List</a></li>
+<li><a href="#sec-4">4 Numbered List</a></li>
+<li><a href="#sec-5">5 Python Code</a></li>
+</ul>
+</div>
+</div>
+
+
+
+
+<div id="outline-container-1" class="outline-2">
+<h2 id="sec-1">Agenda</h2>
+<div class="outline-text-2" id="text-1">
+
+<ul>
+<li>Turn off the table of contents
+</li>
+<li>Test other kinds of mark-up
+</li>
+<li>Favicon?
+</li>
+<li>Automate save-then-publish, <code>rake gen_deploy</code>
+</li>
+<li>Consider &#8220;Landing Page vs. Blog Index&#8221;
+</li>
+<li>Investigate other themes
+</li>
+</ul>
+
+</div>
+
+</div>
+
+
+
+
+<div id="outline-container-2" class="outline-2">
+<h2 id="sec-2">Style Tests</h2>
+<div class="outline-text-2" id="text-2">
+
+<p>  Is <b>this</b> bold?
+</p>
+<p>
+  Is <code>this</code> code?
+</p>
+<p>
+  Is <i>this</i> italic?
+</p></div>
+
+</div>
+
+
+
+
+<div id="outline-container-3" class="outline-2">
+<h2 id="sec-3">List</h2>
+<div class="outline-text-2" id="text-3">
+
+<ul>
+<li>A list item
+</li>
+<li>Another list item
+</li>
+</ul>
+
+</div>
+
+</div>
+
+
+
+
+<div id="outline-container-4" class="outline-2">
+<h2 id="sec-4">Numbered List</h2>
+<div class="outline-text-2" id="text-4">
+
+<ol>
+<li>Number one
+</li>
+<li>Number two
+</li>
+</ol>
+
+</div>
+
+</div>
+
+
+
+
+<div id="outline-container-5" class="outline-2">
+<h2 id="sec-5">Python Code</h2>
+<div class="outline-text-2" id="text-5">
+
+
+
+<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'>  <span class="k">print</span> <span class="s">&#39;Hello, world!&#39;</span>
+</span></code></pre></td></tr></table></div></figure>
+
+</div>
+</div>
+
+]]></content>
+  </entry>
+  
+</feed>
