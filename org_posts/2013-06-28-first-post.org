@@ -1,3 +1,4 @@
+#+OPTIONS: toc:nil
 #+BEGIN_HTML
 ---
 layout: post
@@ -8,7 +9,6 @@ categories:
 ---
 #+END_HTML
 * Agenda
-  - Turn off the table of contents
   - Test other kinds of mark-up
   - Favicon?
   - Automate save-then-publish, =rake gen_deploy=
