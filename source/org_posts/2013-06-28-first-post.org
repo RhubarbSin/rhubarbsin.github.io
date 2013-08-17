@@ -1,3 +1,4 @@
+#+OPTIONS: toc:nil
 #+BEGIN_HTML
 ---
 layout: post
@@ -7,10 +8,25 @@ comments: false
 categories: 
 ---
 #+END_HTML
-* Heading 1
-  - List item
+* Agenda
+  - Test other kinds of mark-up
+  - Favicon?
+  - Automate save-then-publish, =rake gen_deploy=
+  - Consider "Landing Page vs. Blog Index"
+  - Investigate other themes
+* Style Tests
+  Is *this* bold?
+
+  Is =this= code?
+
+  Is /this/ italic?
+* List
+  - A list item
   - Another list item
-* Heading 2
+* Numbered List
+  1. Number one
+  2. Number two
+* Python Code
   #+BEGIN_SRC python
   print 'Hello, world!'
   #+END_SRC
