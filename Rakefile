@@ -147,15 +147,17 @@ task :new_page, :filename do |t, args|
     end
     puts "Creating new page: #{file}"
     open(file, 'w') do |page|
+      post.puts "#+OPTIONS: toc:nil"
+      post.puts "#+BEGIN_HTML"
       page.puts "---"
       page.puts "layout: page"
       page.puts "title: \"#{title}\""
       page.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
-      page.puts "comments: false"
-      post.puts "published: true"
+      page.puts "comments: true"
       page.puts "sharing: true"
       page.puts "footer: true"
       page.puts "---"
+      post.puts "#+END_HTML"
     end
   else
     puts "Syntax error: #{args.filename} contains unsupported characters"
