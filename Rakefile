@@ -147,8 +147,8 @@ task :new_page, :filename do |t, args|
     end
     puts "Creating new page: #{file}"
     open(file, 'w') do |page|
-      post.puts "#+OPTIONS: toc:nil"
-      post.puts "#+BEGIN_HTML"
+      page.puts "#+OPTIONS: toc:nil"
+      page.puts "#+BEGIN_HTML"
       page.puts "---"
       page.puts "layout: page"
       page.puts "title: \"#{title}\""
@@ -157,7 +157,7 @@ task :new_page, :filename do |t, args|
       page.puts "sharing: true"
       page.puts "footer: true"
       page.puts "---"
-      post.puts "#+END_HTML"
+      page.puts "#+END_HTML"
     end
   else
     puts "Syntax error: #{args.filename} contains unsupported characters"
