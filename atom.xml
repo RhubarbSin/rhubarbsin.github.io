@@ -4,7 +4,7 @@
   <title><![CDATA[Dances with Crabs]]></title>
   <link href="http://RhubarbSin.github.io/atom.xml" rel="self"/>
   <link href="http://RhubarbSin.github.io/"/>
-  <updated>2014-01-21T11:38:05-05:00</updated>
+  <updated>2014-07-02T11:56:16-04:00</updated>
   <id>http://RhubarbSin.github.io/</id>
   <author>
     <name><![CDATA[Rhubarb Sin]]></name>
@@ -19,7 +19,12 @@
     <updated>2013-06-28T16:26:00-04:00</updated>
     <id>http://RhubarbSin.github.io/blog/2013/06/28/first-post</id>
     <content type="html"><![CDATA[<p>
-Testing <a href="http://blog.paphus.com/blog/2012/08/01/introducing-octopress-blogging-for-org-mode/">Octopress with Org Mode</a>&hellip;
+Testing <a href="http://blog.paphus.com/blog/2012/08/01/introducing-octopress-blogging-for-org-mode/">Octopress with Org Mode</a>&hellip;.
+</p>
+
+
+<p>
+My résumé is available in a <a href="http://www.mrbill.net/~blb/resume/">variety of formats</a>.
 </p>
 
 
