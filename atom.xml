@@ -4,7 +4,7 @@
   <title><![CDATA[Dances with Crabs]]></title>
   <link href="http://RhubarbSin.github.io/atom.xml" rel="self"/>
   <link href="http://RhubarbSin.github.io/"/>
-  <updated>2014-07-02T11:56:16-04:00</updated>
+  <updated>2014-07-02T15:01:07-04:00</updated>
   <id>http://RhubarbSin.github.io/</id>
   <author>
     <name><![CDATA[Rhubarb Sin]]></name>
@@ -20,10 +20,9 @@
     <id>http://RhubarbSin.github.io/blog/2013/06/28/first-post</id>
     <content type="html"><![CDATA[<p>
 Testing <a href="http://blog.paphus.com/blog/2012/08/01/introducing-octopress-blogging-for-org-mode/">Octopress with Org Mode</a>&hellip;.
-</p>
+<img class="right" src="http://RhubarbSin.github.io/images/1E3.gif" title="Dancing Crab" alt="A dancing crab">
+<br>
 
-
-<p>
 My résumé is available in a <a href="http://www.mrbill.net/~blb/resume/">variety of formats</a>.
 </p>
 
@@ -112,8 +111,11 @@ My résumé is available in a <a href="http://www.mrbill.net/~blb/resume/">varie
 
 
 
-<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='python'><span class='line'>  <span class="k">print</span> <span class="s">&#39;Hello, world!&#39;</span>
+<figure class='code'><figcaption><span>helloworld.py </span></figcaption>
+ <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'>  <span class="c">#!/usr/bin/env python</span>
+</span><span class='line'>  <span class="k">print</span> <span class="s">&#39;Hello, world!&#39;</span>
 </span></code></pre></td></tr></table></div></figure>
 
 </div>
