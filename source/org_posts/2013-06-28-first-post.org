@@ -7,15 +7,16 @@ comments: false
 categories: 
 ---
 #+END_HTML
-Testing [[http://blog.paphus.com/blog/2012/08/01/introducing-octopress-blogging-for-org-mode/][Octopress with Org Mode]]....
+This site exists only in your mind--I'm experimenting with [[http://blog.paphus.com/blog/2012/08/01/introducing-octopress-blogging-for-org-mode/][Octopress with Org Mode]].
 #+BEGIN_HTML
 {% img right /images/1E3.gif 'Dancing Crab' 'A dancing crab' %}
 #+END_HTML
-#+BEGIN_HTML
-<br>
-#+END_HTML
 
-My résumé is available in a [[http://www.mrbill.net/~blb/resume/][variety of formats]].
+* Profession
+  - My [[http://www.mrbill.net/~blb/resume/][résumé]]
+  - My [[http://www.linkedin.com/in/brianbrush][LinkedIn profile]]
+  - My [[http://careers.stackoverflow.com/rhubarbsin][Stack Overflow Careers Profile]]
+  - My [[https://github.com/RhubarbSin][GitHub repositories]]
 * Agenda
   - Test other kinds of mark-up
   - Favicon?
