@@ -12,7 +12,7 @@ This site exists only in your mind--I'm experimenting with [[http://blog.paphus.
 {% img right /images/1E3.gif 'Dancing Crab' 'A dancing crab' %}
 #+END_HTML
 
-* Links to Professional Information
+* Professional Information
   - My [[http://www.mrbill.net/~blb/resume/][résumé]]
   - My [[http://www.linkedin.com/in/brianbrush][LinkedIn profile]]
   - My [[http://careers.stackoverflow.com/rhubarbsin][Stack Overflow Careers Profile]]
