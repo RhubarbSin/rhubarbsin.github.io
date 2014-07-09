@@ -20,7 +20,6 @@ This site exists only in your mind--I'm experimenting with [[http://blog.paphus.
 * Agenda
   - Test other kinds of mark-up
   - Favicon?
-  - Automate save-then-publish, =rake gen_deploy=
   - Consider "Landing Page vs. Blog Index"
   - Investigate other themes
 * Style Tests

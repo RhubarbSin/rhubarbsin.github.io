@@ -4,7 +4,7 @@
   <title><![CDATA[Dances with Crabs]]></title>
   <link href="http://RhubarbSin.github.io/atom.xml" rel="self"/>
   <link href="http://RhubarbSin.github.io/"/>
-  <updated>2014-07-09T12:42:47-04:00</updated>
+  <updated>2014-07-09T12:43:32-04:00</updated>
   <id>http://RhubarbSin.github.io/</id>
   <author>
     <name><![CDATA[Rhubarb Sin]]></name>
@@ -55,8 +55,6 @@ This site exists only in your mind&ndash;I&#8217;m experimenting with <a href="h
 <li>Test other kinds of mark-up
 </li>
 <li>Favicon?
-</li>
-<li>Automate save-then-publish, <code>rake gen_deploy</code>
 </li>
 <li>Consider &#8220;Landing Page vs. Blog Index&#8221;
 </li>
