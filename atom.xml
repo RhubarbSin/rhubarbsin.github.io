@@ -4,7 +4,7 @@
   <title><![CDATA[Dances with Crabs]]></title>
   <link href="http://RhubarbSin.github.io/atom.xml" rel="self"/>
   <link href="http://RhubarbSin.github.io/"/>
-  <updated>2014-07-09T12:46:05-04:00</updated>
+  <updated>2014-07-09T13:00:30-04:00</updated>
   <id>http://RhubarbSin.github.io/</id>
   <author>
     <name><![CDATA[Rhubarb Sin]]></name>
@@ -18,11 +18,13 @@
     <link href="http://RhubarbSin.github.io/blog/2013/06/28/first-post/"/>
     <updated>2013-06-28T16:26:00-04:00</updated>
     <id>http://RhubarbSin.github.io/blog/2013/06/28/first-post</id>
-    <content type="html"><![CDATA[<p>
-This site exists only in your mind&ndash;I&#8217;m experimenting with <a href="http://blog.paphus.com/blog/2012/08/01/introducing-octopress-blogging-for-org-mode/">Octopress with Org Mode</a>.
-<img class="right" src="http://RhubarbSin.github.io/images/1E3.gif" title="Dancing Crab" alt="A dancing crab">
+    <content type="html"><![CDATA[<p><img class="right" src="http://RhubarbSin.github.io/images/1E3.gif" title="Dancing Crab" alt="A dancing crab"></p>
 
+<p>
+This site exists only in your mind (where apparently the date is still June 28th, 2013)&ndash;I&#8217;m experimenting with <a href="http://blog.paphus.com/blog/2012/08/01/introducing-octopress-blogging-for-org-mode/">Octopress with Org Mode</a>.
 </p>
+
+
 
 
 <div id="outline-container-1" class="outline-2">
