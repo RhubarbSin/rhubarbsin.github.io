@@ -4,7 +4,7 @@
   <title><![CDATA[Dances with Crabs]]></title>
   <link href="http://RhubarbSin.github.io/atom.xml" rel="self"/>
   <link href="http://RhubarbSin.github.io/"/>
-  <updated>2014-07-14T10:30:06-04:00</updated>
+  <updated>2014-07-21T11:48:23-04:00</updated>
   <id>http://RhubarbSin.github.io/</id>
   <author>
     <name><![CDATA[Rhubarb Sin]]></name>
@@ -50,8 +50,90 @@ This site exists only in your mind (where apparently the date is still June 28th
 
 
 <div id="outline-container-2" class="outline-2">
-<h2 id="sec-2">Agenda</h2>
+<h2 id="sec-2">Proof That I Am, or May Have Been in the Past, Both a Geek and a Nerd</h2>
 <div class="outline-text-2" id="text-2">
+
+<p>  OK, I publicly admit&hellip;
+</p><ul>
+<li>My bedside nightstand is an SGI Crimson with RealityEngine graphics (alas with only a single RM4, but it isn&#8217;t rendering anything these days anyway).
+</li>
+<li>My house&#8217;s core gigabit switch is connected to my living room switch via a single-mode fibre backbone.
+</li>
+<li>I earned a gold medal (<i>summa cum laude</i>) for my first-year <a href="http://www.nle.org/">National Latin Exam</a> and a silver medal (<i>maxima cum laude</i>) for my second-year exam. For the third year I guess I was lazy, as I didn&#8217;t place.
+</li>
+<li>I grew up watching the original Doctor Who series and <i>liked it</i> (insert favorite Doctor here).
+</li>
+<li>I <i>used to</i> attend science fiction conventions, but I feel better now&ndash;and Bill Shatner really is like that in person.
+</li>
+<li>I use Emacs <a href="http://earlcolour.deviantart.com/art/emacs-user-at-work-195326745"><i>and I like it</i></a>.
+</li>
+</ul>
+
+<p>  &hellip;but I don&#8217;t&hellip;
+</p><ul>
+<li>read &#8220;graphic novels.&#8221;
+</li>
+<li>play video games.
+</li>
+<li>have any iThings.
+</li>
+<li>choose a side in the editor war; I use vi extensively (yeah, in most cases it&#8217;s really vim, but I don&#8217;t use any of vim&#8217;s extra features because I learned real vi on <i>real Unix</i>), and besides, <a href="http://c2.com/cgi/wiki?EdIsTheStandardTextEditor"><b>ed is the standard text editor</b></a>.
+</li>
+</ul>
+
+<p>  &hellip;but yet I do have&hellip;
+</p>
+</div>
+
+<div id="outline-container-2-1" class="outline-3">
+<h3 id="sec-2-1">My vintage computers</h3>
+<div class="outline-text-3" id="text-2-1">
+
+<p>   I keep hanging onto these things:
+</p><ul>
+<li>Aforementioned SGI Crimson, 150 MHz R4400, 256 MiB RAM, RealityEngine graphics, and a couple of dual-port fast-wide differential SCSI controller cards
+</li>
+<li>SGI Indigo, 150 MHz R4400, 64 MiB RAM, XZ graphics
+</li>
+<li>SGI Indigo, 100 MHz R4000, 32 MiB RAM, XS24Z graphics
+</li>
+<li>Sun SPARCstation 20 Model 712, 384 MiB RAM, ZX and on-board 4 MiB SX framebuffers, SunVideo SBus card
+</li>
+<li>Sun SPARCstation 10 Model 51 (I misplaced the other SM51 MBus module and haven&#8217;t found it yet), 192 MiB RAM, CG6 framebuffer
+</li>
+<li>Sun SPARCstation LX, 96 MiB RAM, on-board CG6 framebuffer (I think it has the VRAM expansion but can&#8217;t be bothered to check because it serves as a monitor stand right now), Big Mac ethernet SBus card
+</li>
+<li>Apple Macintosh Quadra 950, 64 MiB RAM, 2 MiB VRAM
+</li>
+<li>IBM PS/2 Model 95 (8595)&ndash;with the cool front-panel display&ndash;i486DX4/100, 8 MiB RAM, quaint token ring card, and a couple of 10 Mbps ethernet cards
+</li>
+<li>Commodore 64
+</li>
+</ul>
+
+
+<p>
+   Honorary mentions of past exotica that was sold off while there was still some slight demand:
+</p><ul>
+<li>NeXTstation Mono, 8 MiB RAM
+</li>
+<li>Sun 3/80, 8 MiB RAM
+</li>
+<li>Sun 386i/250, 8 MiB RAM
+</li>
+</ul>
+
+</div>
+</div>
+
+</div>
+
+
+
+
+<div id="outline-container-3" class="outline-2">
+<h2 id="sec-3">Agenda</h2>
+<div class="outline-text-2" id="text-3">
 
 <ul>
 <li>Test other kinds of mark-up
@@ -62,6 +144,8 @@ This site exists only in your mind (where apparently the date is still June 28th
 </li>
 <li>Investigate other themes
 </li>
+<li>Move stuff onto separate pages
+</li>
 </ul>
 
 </div>
@@ -71,9 +155,9 @@ This site exists only in your mind (where apparently the date is still June 28th
 
 
 
-<div id="outline-container-3" class="outline-2">
-<h2 id="sec-3">Style Tests</h2>
-<div class="outline-text-2" id="text-3">
+<div id="outline-container-4" class="outline-2">
+<h2 id="sec-4">Style Tests</h2>
+<div class="outline-text-2" id="text-4">
 
 <p>  Is <b>this</b> bold?
 </p>
@@ -89,9 +173,9 @@ This site exists only in your mind (where apparently the date is still June 28th
 
 
 
-<div id="outline-container-4" class="outline-2">
-<h2 id="sec-4">List</h2>
-<div class="outline-text-2" id="text-4">
+<div id="outline-container-5" class="outline-2">
+<h2 id="sec-5">List</h2>
+<div class="outline-text-2" id="text-5">
 
 <ul>
 <li>A list item
@@ -107,9 +191,9 @@ This site exists only in your mind (where apparently the date is still June 28th
 
 
 
-<div id="outline-container-5" class="outline-2">
-<h2 id="sec-5">Numbered List</h2>
-<div class="outline-text-2" id="text-5">
+<div id="outline-container-6" class="outline-2">
+<h2 id="sec-6">Numbered List</h2>
+<div class="outline-text-2" id="text-6">
 
 <ol>
 <li>Number one
@@ -125,9 +209,9 @@ This site exists only in your mind (where apparently the date is still June 28th
 
 
 
-<div id="outline-container-6" class="outline-2">
-<h2 id="sec-6">Python Code</h2>
-<div class="outline-text-2" id="text-6">
+<div id="outline-container-7" class="outline-2">
+<h2 id="sec-7">Python Code</h2>
+<div class="outline-text-2" id="text-7">
 
 
 <figure class='code'><figcaption><span>helloworld.py </span></figcaption>
