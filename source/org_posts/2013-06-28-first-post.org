@@ -7,22 +7,52 @@ comments: false
 categories: 
 ---
 #+END_HTML
-This site exists only in your mind--I'm experimenting with [[http://blog.paphus.com/blog/2012/08/01/introducing-octopress-blogging-for-org-mode/][Octopress with Org Mode]].
 #+BEGIN_HTML
 {% img right /images/1E3.gif 'Dancing Crab' 'A dancing crab' %}
 #+END_HTML
+This site exists only in your mind (where apparently the date is still June 28th, 2013)--I'm experimenting with [[http://blog.paphus.com/blog/2012/08/01/introducing-octopress-blogging-for-org-mode/][Octopress with Org Mode]].
 
-* Profession
-  - My [[http://www.mrbill.net/~blb/resume/][résumé]]
+* Professional Information
+  - My [[http://www.mrbill.net/~blb/resume/][résumé]] in various formats
   - My [[http://www.linkedin.com/in/brianbrush][LinkedIn profile]]
   - My [[http://careers.stackoverflow.com/rhubarbsin][Stack Overflow Careers Profile]]
   - My [[https://github.com/RhubarbSin][GitHub repositories]]
+* Proof That I Am, or May Have Been in the Past, Both a Geek and a Nerd
+  OK, I publicly admit...
+  - My bedside nightstand is an SGI Crimson with RealityEngine graphics (alas with only a single RM4, but it isn't rendering anything these days anyway).
+  - My house's core gigabit switch is connected to my living room switch via a single-mode fibre backbone.
+  - I earned a gold medal (/summa cum laude/) for my first-year [[http://www.nle.org/][National Latin Exam]] and a silver medal (/maxima cum laude/) for my second-year exam. For the third year I guess I was lazy, as I didn't place.
+  - I grew up watching the original Doctor Who series and /liked it/ (insert favorite Doctor here).
+  - I /used to/ attend science fiction conventions, but I feel better now--and Bill Shatner really is like that in person.
+  - I use Emacs [[http://earlcolour.deviantart.com/art/emacs-user-at-work-195326745][/and I like it/]].
+  ...but I don't...
+  - read "graphic novels."
+  - play video games.
+  - have any iThings.
+  - choose a side in the editor war; I use vi extensively (yeah, in most cases it's really vim, but I don't use any of vim's extra features because I learned real vi on /real Unix/), and besides, [[http://c2.com/cgi/wiki?EdIsTheStandardTextEditor][*ed is the standard text editor*]].
+  ...but yet I do have...
+** My vintage computers
+   I keep hanging onto these things:
+   - Aforementioned SGI Crimson, 150 MHz R4400, 256 MiB RAM, RealityEngine graphics, and a couple of dual-port fast-wide differential SCSI controller cards
+   - SGI Indigo, 150 MHz R4400, 64 MiB RAM, XZ graphics
+   - SGI Indigo, 100 MHz R4000, 32 MiB RAM, XS24Z graphics
+   - Sun SPARCstation 20 Model 712, 384 MiB RAM, ZX and on-board 4 MiB SX framebuffers, SunVideo SBus card
+   - Sun SPARCstation 10 Model 51 (I misplaced the other SM51 MBus module and haven't found it yet), 192 MiB RAM, CG6 framebuffer
+   - Sun SPARCstation LX, 96 MiB RAM, on-board CG6 framebuffer (I think it has the VRAM expansion but can't be bothered to check because it serves as a monitor stand right now), Big Mac ethernet SBus card
+   - Apple Macintosh Quadra 950, 64 MiB RAM, 2 MiB VRAM
+   - IBM PS/2 Model 95 (8595)--with the cool front-panel display--i486DX4/100, 8 MiB RAM, quaint token ring card, and a couple of 10 Mbps ethernet cards
+   - Commodore 64
+
+   Honorary mentions of past exotica that was sold off while there was still some slight demand:
+   - NeXTstation Mono, 8 MiB RAM
+   - Sun 3/80, 8 MiB RAM
+   - Sun 386i/250, 8 MiB RAM
 * Agenda
   - Test other kinds of mark-up
   - Favicon?
-  - Automate save-then-publish, =rake gen_deploy=
   - Consider "Landing Page vs. Blog Index"
   - Investigate other themes
+  - Move stuff onto separate pages
 * Style Tests
   Is *this* bold?
 

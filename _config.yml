@@ -7,7 +7,7 @@ url: http://RhubarbSin.github.io
 title: Dances with Crabs
 subtitle: Shaving Yaks for Fun and Profit
 author: Rhubarb Sin
-simple_search: http://google.com/search
+simple_search:
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -17,6 +17,7 @@ description:
 date_format: "%d %B %Y"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
+show_feeds: false
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
@@ -69,7 +70,7 @@ github_user: RhubarbSin
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
-github_skip_repos: [rhubarbsin.github.io]
+github_skip_repos: [rhubarbsin.github.io, blb, testing, whmcssadness.com]
 
 # Twitter
 twitter_user: RhubarbSin
