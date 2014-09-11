@@ -4,7 +4,7 @@
   <title><![CDATA[Dances with Crabs]]></title>
   <link href="http://RhubarbSin.github.io/atom.xml" rel="self"/>
   <link href="http://RhubarbSin.github.io/"/>
-  <updated>2014-07-29T12:50:03-04:00</updated>
+  <updated>2014-09-11T18:52:56-04:00</updated>
   <id>http://RhubarbSin.github.io/</id>
   <author>
     <name><![CDATA[Rhubarb Sin]]></name>
@@ -32,7 +32,16 @@ This site exists only in your mind (where apparently the date is still June 28th
 <div class="outline-text-2" id="text-1">
 
 <ul>
-<li>My <a href="http://www.mrbill.net/~blb/resume/">résumé</a> in various formats
+<li>My résumé in multiple formats:
+<ul>
+<li><a href="http://www.mrbill.net/~blb/resume/resume-brush.odt">OpenDocument Text</a>
+</li>
+<li><a href="http://www.mrbill.net/~blb/resume/resume-brush.pdf">Portable Document Format (PDF)</a>
+</li>
+<li><a href="http://www.mrbill.net/~blb/resume/resume-brush.doc">Microsoft Word</a>
+</li>
+</ul>
+
 </li>
 <li>My <a href="http://www.linkedin.com/in/brianbrush">LinkedIn profile</a>
 </li>
@@ -59,7 +68,7 @@ This site exists only in your mind (where apparently the date is still June 28th
 </li>
 <li>My house&#8217;s core gigabit switch is connected to my living room switch via a single-mode fibre backbone.
 </li>
-<li>I earned a gold medal (<i>summa cum laude</i>) for my first-year <a href="http://www.nle.org/">National Latin Exam</a> and a silver medal (<i>maxima cum laude</i>) for my second-year exam. For the third year I guess I was lazy, as I didn&#8217;t place.
+<li>I earned a gold medal (<i>summa cum laude</i>) for my first-year <a href="http://www.nle.org/">National Latin Exam</a> and a silver medal (<i>magna cum laude</i>) for my second-year exam. For the third year I guess I was lazy, as I didn&#8217;t place.
 </li>
 <li>I grew up watching the original Doctor Who series and <i>liked it</i> (insert favorite Doctor here).
 </li>

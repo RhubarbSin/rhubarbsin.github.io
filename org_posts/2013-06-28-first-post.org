@@ -13,7 +13,10 @@ categories:
 This site exists only in your mind (where apparently the date is still June 28th, 2013)--I'm experimenting with [[http://blog.paphus.com/blog/2012/08/01/introducing-octopress-blogging-for-org-mode/][Octopress with Org Mode]].
 
 * Professional Information
-  - My [[http://www.mrbill.net/~blb/resume/][résumé]] in various formats
+  - My résumé in multiple formats:
+    + [[http://www.mrbill.net/~blb/resume/resume-brush.odt][OpenDocument Text]]
+    + [[http://www.mrbill.net/~blb/resume/resume-brush.pdf][Portable Document Format (PDF)]]
+    + [[http://www.mrbill.net/~blb/resume/resume-brush.doc][Microsoft Word]]
   - My [[http://www.linkedin.com/in/brianbrush][LinkedIn profile]]
   - My [[http://careers.stackoverflow.com/rhubarbsin][Stack Overflow Careers Profile]]
   - My [[https://github.com/RhubarbSin][GitHub repositories]]
@@ -21,7 +24,7 @@ This site exists only in your mind (where apparently the date is still June 28th
   OK, I publicly admit...
   - My bedside nightstand is an SGI Crimson with RealityEngine graphics (alas with only a single RM4, but it isn't rendering anything these days anyway).
   - My house's core gigabit switch is connected to my living room switch via a single-mode fibre backbone.
-  - I earned a gold medal (/summa cum laude/) for my first-year [[http://www.nle.org/][National Latin Exam]] and a silver medal (/maxima cum laude/) for my second-year exam. For the third year I guess I was lazy, as I didn't place.
+  - I earned a gold medal (/summa cum laude/) for my first-year [[http://www.nle.org/][National Latin Exam]] and a silver medal (/magna cum laude/) for my second-year exam. For the third year I guess I was lazy, as I didn't place.
   - I grew up watching the original Doctor Who series and /liked it/ (insert favorite Doctor here).
   - I /used to/ attend science fiction conventions, but I feel better now--and Bill Shatner really is like that in person.
   - I use Emacs [[http://earlcolour.deviantart.com/art/emacs-user-at-work-195326745][/and I like it/]].
