@@ -14,9 +14,8 @@ This site exists only in your mind (where apparently the date is still June 28th
 
 * Professional Information
   - My résumé in multiple formats:
-    + [[http://www.mrbill.net/~blb/resume/resume-brush.odt][OpenDocument Text]]
-    + [[http://www.mrbill.net/~blb/resume/resume-brush.pdf][Portable Document Format (PDF)]]
-    + [[http://www.mrbill.net/~blb/resume/resume-brush.doc][Microsoft Word]]
+    + [[http://www.mrbill.net/~blb/resume/Brush-Brian-Resume.pdf][Portable Document Format (PDF)]]
+    + [[http://www.mrbill.net/~blb/resume/Brush-Brian-Resume.docx][Microsoft Word]]
   - My [[http://www.linkedin.com/in/brianbrush][LinkedIn profile]]
   - My [[http://careers.stackoverflow.com/rhubarbsin][Stack Overflow Careers Profile]]
   - My [[https://github.com/RhubarbSin][GitHub repositories]]
